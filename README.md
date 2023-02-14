@@ -1,5 +1,7 @@
 # ChatIT-AI
 
+<img src="readme.png" alt="ChatIT UI"/>
+
 Welcome to ChatIT - an AI-powered web application designed to make interactions with AI systems more natural and safe.
 
 Using OpenAI's powerful language models, ChatIT can help answer your questions and provide insightful responses in a human-like manner. Our web application is built with HTML, CSS, JavaScript, and Vite for fast and efficient development.
@@ -8,13 +10,11 @@ The app committed to creating a seamless user experience that is easy to navigat
 
 Try out ChatIT and experience the power of OpenAI for yourself!
 
-<img src="readme.png" alt="ChatIT UI"/>
-
 ![License](https://img.shields.io/github/license/yashkolte/gameui.svg)
 
 ## Features
 - User-friendly interface with visually appealing design
--Use the power of AI to search anything around the universe.
+- Use the power of AI to search anything around the universe.
 - Responsive design for optimal use on all devices
 
 ## Technologies Used
